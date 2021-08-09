@@ -85,7 +85,7 @@ document.querySelector(".again").addEventListener("click",
         displayMessage("Start guessing");
         document.querySelector(".guess").value = "";
 
-        document.querySelector("body").style.backgroundColor = "#222";
+        document.querySelector("body").style.backgroundColor = "#ecec83f2";
         document.querySelector(".number").style.width = "15rem";
     }
 )
